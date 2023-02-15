@@ -1,0 +1,47 @@
+.header{
+    width: 80%;
+    margin-left: 200px;
+  }
+
+.btn{
+  background-color: blue;
+  color: white;
+  
+}
+
+main{
+    display: flex;
+
+}
+
+.articulo1{
+    width: 40%;
+    margin-left: 200px;
+    
+    
+  }
+
+.articulo2{
+    width: 33%;
+    margin-left: 100px;
+    
+    
+  }
+
+  .main2{
+    display: flex;
+
+}
+
+  .articulo3{
+    width: 20%;
+    margin-left: 200px;
+
+}
+
+.articulo4{
+    width: 20%;
+    margin-left: 80px;
+
+}
+
